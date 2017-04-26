@@ -1,0 +1,102 @@
+24.04.2017
+Notes de patch V.39.3 - Revenant et nouveaux skins Renégate !
+Par L'équipe Paragon
+La mise à jour V.39.3 sera disponible dès mardi 25 avril, et elle comprendra notre nouveau héros, Revenant, ainsi qu'un nouveau skin de palier 3, Sparrow Renégate.
+Revenant
+Revenant vient de débarquer en ville et Agora aura besoin d'un stock de nouveaux cercueils. Le premier carry à distance de l'année va semer le chaos et emporter ses proies dans le Royaume des ténèbres. Vous pouvez consulter la liste complète de ses compétences dans l'article annonçant son arrivée.
+
+Revenant disposera à sa sortie des skins Plume de corbeau et Chronoboss, ainsi que de l'emote « Lever de chapeau ».
+Paragon%2Fblog%2Fv-39-3-release-notes%2FRavenQuillSale_Skin_600x600-600x600-db53d888494871c72b0f1d1891fac0d798dc297b
+Nouveaux skins
+
+Nous sommes heureux de présenter notre tout nouveau skin de palier 3 : Sparrow Renégate. Ce skin sera disponible dans la boutique, et ses variantes ont été ajoutées dans les caisses de butin. De plus, Revenant sera lancé avec deux nouveaux skins, tous deux disponibles dans la boutique.
+
+Consultez l'article présentant le skin Renégate pour plus de détails.
+Paragon%2Fblog%2Fv-39-3-release-notes%2FSale-Skin_600x600_Sparrow-600x600-b6d9386bb4656a643945a5a58091c924aa15e829
+
+Mise à jour des caisses de butin
+
+Rampage Iceberg et Rampage Bête de cuivre rejoignent notre coffre pour laisser de la place aux variantes du skin Sparrow Renégate. Plusieurs autres variantes de skin ordinaires ont été ajoutées dans les caisses de butin. Vous trouverez ci-dessous la liste complète des changements.
+Notes de patch V.39.3
+Fonctions majeures
+
+    Revenant est arrivé !
+        Deux nouveaux skins, Plume de corbeau et Chronoboss, ont été ajoutés dans la boutique.
+        Un nouvel emote Lever de chapeau a été ajouté dans la boutique.
+    Sparrow Renégate, un nouveau skin de palier 3 pour Sparrow, a été ajouté dans la boutique !
+
+Paragon%2Fblog%2Fv-39-3-release-notes%2FChronosBoss_Sale-Skin_600x600-600x600-5234a20d8a9ada4947b24eb25f017f082f1c8fa4
+ 
+Gameplay
+Nous continuons notre série de changements sur l'Orbe primordial, en réduisant cette fois-ci l'efficacité du bonus des cartes primordiales. Nous voulons que l'Orbe primordial soit vu comme un objectif permettant à une équipe d'assiéger et de mettre sous pression la base ennemie, mais Toucher mortel mettait trop efficacement la pression sur les autres voies inoccupées.
+
+Nous essayons également de réduire le délai de réapparition, maintenant que l'Orbe primordial a prouvé qu'il était un excellent outil pour assiéger la base ennemie.
+
+Nous répéterons ce genre de série de changements sur les objectifs importants qui ajoutent une couche stratégique supplémentaire et de l'intérêt à chaque partie, alors attendez-vous à d'autres ajustements très bientôt !
+
+    Bonus de l'Orbe primordial
+        Régénération de la santé réduite de 3 % à 1,5 % de la santé max.
+        Régénération du mana réduite de 3 % à 1,5 % du mana max.
+        Bonus de santé des serviteurs proches réduit de 50 % à 25 %.
+        Durée du bonus de l'Orbe primordial réduite de 150 à 120 secondes.
+        Effet Toucher mortel supprimé.
+    Délai de réapparition
+        Délai de réapparition par niveau de héros réduit de 5,8 à 5,2 secondes. (81 secondes au niveau max, contre 90 secondes auparavant.)
+    La pénalité en vitesse de déplacement (quand vous attaquez) a désormais une durée minimale.
+        0,7 s pour les attaques à distance.
+        0,6 s pour les attaques au corps à corps (réussies).
+        0,22 s pour les attaques au corps à corps (ratées).
+
+Héros
+Les héros verrouillés seront désormais déverrouillés si vous possédez leur Maîtrise.
+
+Gadget
+
+    Objectif destruction
+        N'inflige plus un tick de dégâts supplémentaire lors de l'utilisation initiale.
+
+Revenant
+
+    Skins
+        Ajout du skin Plume de corbeau dans la boutique.
+        Ajout du skin Chronoboss dans la boutique.
+    Emotes
+        Ajout de l'emote Lever de chapeau dans la boutique.
+
+Cartes
+
+    Pack de cartes hebdomadaire
+        Drain supérieur
+        Effleurement du traître
+        Nitro conjonctif
+
+Audio
+
+    L'option Thème musical a été ajoutée aux paramètres.
+        Elle vous permet de choisir entre trois thèmes différents.
+
+Interface
+
+    Profil
+        Vous pouvez maintenant voir le nombre total d'étoiles gagnées dans votre profil.
+    Écran de fin de partie
+        L'onglet Quêtes ne sera pas affiché si vous n'avez fait aucun progrès dans une quête.
+    Peaufinage et correction de bugs
+        Les récompenses quotidiennes et le message du jour s'afficheront maintenant après que l'écran de fin de partie a été passé.
+        Correction d'un problème d'affichage lié à la jauge de progression du coffre d'étoiles.
+            Ce problème ne se produisait que si vous collectiez plus d'étoiles que le nombre requis pour les coffres de diamant.
+    Mise à jour des caisses de butin
+        Skins légendaires retirés :
+            Rampage Iceberg
+            Rampage Bête de cuivre
+        Skins légendaires ajoutés :
+            Sparrow Renégate - Onyx
+            Sparrow Renégate - Cobalt
+        Variantes de skin ordinaires ajoutées :
+            Revenant par défaut - Velours
+            Revenant par défaut - Orchidée
+            Revenant Chronoboss - Rouillé
+            Revenant Chronoboss - Marine
+            Revenant Plume de corbeau - Émeraude
+            Revenant Plume de corbeau - Lunaire
+
